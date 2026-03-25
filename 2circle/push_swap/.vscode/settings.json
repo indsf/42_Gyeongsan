@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "push_swap.h": "c",
+        "libft.h": "c",
+        "stdlib.h": "c",
+        "unistd.h": "c",
+        "stdio.h": "c",
+        "limits": "c"
+    }
+}
