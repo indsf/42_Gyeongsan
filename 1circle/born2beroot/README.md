@@ -353,7 +353,5 @@ Born2beRoot는 "리눅스 설치 과제"라기보다 서버를 운영할 때 어
 - 파티션과 LVM이 운영 안정성과 연결된다는 점
 
 ## 참고 자료
-
-- Medium: [Born2beroot. 42 school project](https://baigal.medium.com/born2beroot-e6e26dfb50ac)
 - Tistory: [NAT 쉽게 이해하기](https://aws-hyoh.tistory.com/145)
 - Tistory: [IP주소와 포트포워딩이란 포트포워딩 설정하기(iptime)](https://hyunie-y.tistory.com/23)
